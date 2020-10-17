@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="city">
+        <item>گرگان</item>
+        <item>یاسوج</item>
+        <item>بم</item>
+        <item>کرمانشاه</item>
+        <item>جیرفت</item>
+        <item>سیرجان</item>
+        <item>رفسنجان</item>
+        <item>کرمان</item>
+        <item>بانه</item>
+        <item>بیجار</item>
+        <item>سنندج</item>
+        <item>قزوین</item>
+        <item>قم</item>
+        <item>کرج</item>
+        <item>شیراز</item>
+        <item>سمنان</item>
+        <item>زاهدان</item>
+        <item>زنجان</item>
+        <item>مسجدسلیمان</item>
+        <item>خرمهر</item>
+        <item>آبادان</item>
+        <item>رشت</item>
+        <item>آستارا</item>
+        <item>اشرفیه</item>
+        <item>آستانه</item>
+        <item>بندرانزلی</item>
+        <item>لاهیجان</item>
+        <item>لنگرود</item>
+        <item>خرم آباد</item>
+        <item>ساری</item>
+        <item>بندر عباس</item>
+        <item>اراک</item>
+        <item>ابوموسی</item>
+        <item>یزد</item>
+        <item>همدان</item>
+        <item>کیش</item>
+        <item>قشم</item>
+        <item>تبریز</item>
+        <item>ارومیه</item>
+        <item>ایلام</item>
+        <item>اردبیل</item>
+        <item>بوشهر</item>
+        <item>اصفهان</item>
+        <item>تهران</item>
+        <item>شهرکرد</item>
+        <item>مشهد</item>
+        <item>بیرجند</item>
+        <item>قاین</item>
+        <item>فردوس</item>
+        <item>بجنورد</item>
+        <item>شیروان</item>
+        <item>اهواز</item>
+        <item>اندیمشک</item>
+    </array>
+
+</resources>
